@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="其他",咪咕体育
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16 34M
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw453673987_-564838679/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=3&RTS=1668852946&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
